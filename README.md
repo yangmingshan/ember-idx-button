@@ -1,11 +1,11 @@
-# Ember-idx-button
+# Ember-ika-button
 
 A smart button with styling, icons and async support for Ember.js
 
 ## Installation
 
 ```bash
-npm install --save-dev ember-idx-button
+npm install --save-dev ember-ika-button
 ```
 
 For usage info, please see [Demo](http://indexiatech.github.io/ember-idx-button)
@@ -29,3 +29,5 @@ For usage info, please see [Demo](http://indexiatech.github.io/ember-idx-button)
 ### Building
 
 * `ember build`
+
+For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).

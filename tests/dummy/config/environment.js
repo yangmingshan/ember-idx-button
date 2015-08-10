@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'dummy',
     environment: environment,
-    baseURL: '/ember-idx-button',
+    baseURL: '/ember-ika-button',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {

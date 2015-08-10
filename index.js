@@ -4,7 +4,7 @@ var mergeTrees = require( 'broccoli-merge-trees' ),
     pickFiles  = require( 'broccoli-static-compiler' );
 
 module.exports = {
-  name: 'ember-idx-button',
+  name: 'ember-ika-button',
 
   included: function( app ) {
         var isDummy = app.name === 'dummy'
@@ -30,7 +30,7 @@ module.exports = {
     },
 
     postprocessTree: function( type, tree ) {
-        var isDummy = (process.env.npm_package_name === 'ember-idx-button');
+        var isDummy = (process.env.npm_package_name === 'ember-ika-button');
 
         if (isDummy) {
             return mergeTrees([ tree,

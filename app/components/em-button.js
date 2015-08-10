@@ -1,3 +1,3 @@
-import ButtonComponent from 'ember-idx-button/button';
+import ButtonComponent from 'ember-ika-button/button';
 
 export default ButtonComponent;
